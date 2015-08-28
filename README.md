@@ -4,4 +4,7 @@
 3. 现在PluginTheme出来了，你不在纠结在线更新主题
 4. 因为一个工具类就能搞定了！
 
+
+![运行效果](http://7sbmna.com1.z0.glb.clouddn.com/PluginTheme.gif)
+
 ## 欢迎关注我的博客：[http://www.hxbbd.com](http://www.hxbbd.com)
