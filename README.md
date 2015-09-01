@@ -7,6 +7,6 @@
 
 ![运行效果](http://7sbmna.com1.z0.glb.clouddn.com/PluginTheme.gif)
 
-### 欢迎关注我的博客：[http://www.hxbbd.com](http://www.hxbbd.com)
-## 最纯粹的Android技术交流群：[真●Android技术交流群](http://shang.qq.com/wpa/qunwpa?idkey=6fb674e18e9059adda1d503bd2f0e016cf25f31a0e6ba7ad4c56b53b090a07c3)
+## 真●Android技术交流群：[255795935](http://shang.qq.com/wpa/qunwpa?idkey=6fb674e18e9059adda1d503bd2f0e016cf25f31a0e6ba7ad4c56b53b090a07c3)
+## 欢迎关注我的博客：[http://www.hxbbd.com](http://www.hxbbd.com)
 
